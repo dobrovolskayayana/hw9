@@ -7,6 +7,6 @@
 
 ![](https://github.com/dobrovolskayayana/hw9/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD2.png?raw=true)
 
-Использовала регулярное выражение: (^|\s)+[Н][а-я]  Всего упоминаний Новгорода нашла: (58)
+Использовала регулярное выражение: (^|\s)+[Н][а-я]*(город)  Всего упоминаний Новгорода нашла: (58)
 
 ![](https://github.com/dobrovolskayayana/hw9/blob/master/%D1%81%D0%BA%D1%80%D0%B8%D0%BD3.png?raw=true)
